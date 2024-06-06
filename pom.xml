@@ -97,17 +97,18 @@
 		
 	</dependencies>
 	
-	<distributionManagement>
+	<distributionManagement> 
+		
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-release/</url>
+	      <url>http://52.53.231.20:8081/repository/tesla-fe-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-snapshot/</url>
+	      <url>http://52.53.231.20:8081/repository/tesla-fe-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
